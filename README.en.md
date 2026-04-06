@@ -46,8 +46,10 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=farguto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Federico's GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farguto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://raw.githubusercontent.com/farguto/farguto/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"/>
+
+<img height="180em" src="https://raw.githubusercontent.com/farguto/farguto/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
+<img height="180em" src="https://raw.githubusercontent.com/farguto/farguto/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Commits per language"/>
 
 </div>
 
