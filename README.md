@@ -1,25 +1,27 @@
 <div align="center">
 
 <a href="https://portfolio-federico-arguto.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Federico+Arguto+%F0%9F%91%8B;Frontend+Developer;React+%7C+JavaScript+%7C+Python;Open+to+Freelance+%26+Job+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Federico+Arguto+%F0%9F%91%8B;Frontend+Developer;React+%7C+JavaScript+%7C+Python;Disponible+para+freelance+y+trabajo" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=farguto&color=70A5FD&style=flat-square&label=Profile+Views)](https://github.com/farguto)
+[![Profile Views](https://komarev.com/ghpvc/?username=farguto&color=70A5FD&style=flat-square&label=Visitas+al+perfil)](https://github.com/farguto)
+
+**[🇬🇧 English version](./README.en.md)**
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre mí
 
-- 🌍 Frontend Developer based in **Argentina**
-- ⚛️ Passionate about building clean, performant, and beautiful web experiences
-- 🚀 Currently open to **freelance projects** and **full-time opportunities**
-- 🌱 Always leveling up — currently diving deeper into **Three.js** and **3D on the web**
-- 💼 Check out my work at **[portfolio-federico-arguto.vercel.app](https://portfolio-federico-arguto.vercel.app/)**
-- 💬 Ask me about **React, JavaScript, UI/UX, and frontend architecture**
+- 🌍 Frontend Developer en **Argentina**
+- ⚛️ Me apasiona crear experiencias web limpias, performantes y visualmente atractivas
+- 🚀 Disponible para **proyectos freelance** y **oportunidades full-time**
+- 🌱 Siempre aprendiendo — actualmente profundizando en **Three.js** y **3D en la web**
+- 💼 Mirá mi trabajo en **[portfolio-federico-arguto.vercel.app](https://portfolio-federico-arguto.vercel.app/)**
+- 💬 Preguntame sobre **React, JavaScript, UI/UX y arquitectura frontend**
 
 ---
 
@@ -40,34 +42,34 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=farguto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Federico's GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farguto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=farguto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=es" alt="Estadísticas de GitHub de Federico"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farguto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=es" alt="Lenguajes más usados"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farguto&theme=tokyonight&hide_border=true)](https://github.com/farguto)
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/farguto/farguto/output/github-snake.svg" alt="Snake animation" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=farguto&theme=tokyonight&hide_border=true&locale=es)](https://github.com/farguto)
 
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 🐍 Actividad de contribuciones
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/farguto/farguto/output/github-snake.svg" alt="Animación de la serpiente" />
+
+</div>
+
+---
+
+## 📬 Conectemos
 
 <div align="center">
 
@@ -78,6 +80,6 @@
 
 <div align="center">
 
-*Available for freelance projects and full-time roles — let's build something great together.*
+*Disponible para proyectos freelance y posiciones full-time — construyamos algo grande juntos.*
 
 </div>
