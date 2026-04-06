@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://portfolio-federico-arguto.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Federico+Arguto+%F0%9F%91%8B;Frontend+Developer;React+%7C+JavaScript+%7C+Python;Open+to+Freelance+%26+Job+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Federico+Arguto+%F0%9F%91%8B;Frontend+Developer;React+%7C+JavaScript+%7C+Python" alt="Typing SVG" />
 </a>
 
 <br/>
