@@ -79,9 +79,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-federico-arguto.vercel.app/)
 
 </div>
-
-<div align="center">
-
-*Disponible para proyectos freelance y posiciones full-time — construyamos algo grande juntos.*
-
-</div>
