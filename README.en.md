@@ -44,10 +44,10 @@
 
 <div align="center">
 
-<img height="180em" src="https://raw.githubusercontent.com/farguto/farguto/output/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farguto&theme=tokyonight" alt="Profile details"/>
 
-<img height="180em" src="https://raw.githubusercontent.com/farguto/farguto/output/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language"/>
-<img height="180em" src="https://raw.githubusercontent.com/farguto/farguto/output/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Commits per language"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farguto&theme=tokyonight" alt="Repos per language"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farguto&theme=tokyonight" alt="Stats"/>
 
 </div>
 
