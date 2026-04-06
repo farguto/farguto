@@ -21,8 +21,6 @@
 - 🚀 Disponible para **proyectos freelance** y **oportunidades full-time**
 - 🌱 Siempre aprendiendo — actualmente enfocado en **Inteligencia Artificial** y **automatizaciones**
 - 💼 Mirá mi trabajo en **[portfolio-federico-arguto.vercel.app](https://portfolio-federico-arguto.vercel.app/)**
-- 💬 Preguntame sobre **React, JavaScript, UI/UX y arquitectura frontend**
-
 ---
 
 ## 🛠️ Tech Stack

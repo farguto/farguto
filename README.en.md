@@ -21,8 +21,6 @@
 - 🚀 Currently open to **freelance projects** and **full-time opportunities**
 - 🌱 Always leveling up — currently focused on **Artificial Intelligence** and **automation**
 - 💼 Check out my work at **[portfolio-federico-arguto.vercel.app](https://portfolio-federico-arguto.vercel.app/)**
-- 💬 Ask me about **React, JavaScript, UI/UX, and frontend architecture**
-
 ---
 
 ## 🛠️ Tech Stack
