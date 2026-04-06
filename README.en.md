@@ -19,7 +19,7 @@
 - 🌍 Frontend Developer based in **Argentina**
 - ⚛️ Passionate about building clean, performant, and beautiful web experiences
 - 🚀 Currently open to **freelance projects** and **full-time opportunities**
-- 🌱 Always leveling up — currently diving deeper into **Three.js** and **3D on the web**
+- 🌱 Always leveling up — currently focused on **Artificial Intelligence** and **automation**
 - 💼 Check out my work at **[portfolio-federico-arguto.vercel.app](https://portfolio-federico-arguto.vercel.app/)**
 - 💬 Ask me about **React, JavaScript, UI/UX, and frontend architecture**
 
